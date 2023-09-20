@@ -1,2 +1,0 @@
-update:
-	nix flake update
